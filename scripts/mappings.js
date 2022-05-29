@@ -12688,6 +12688,7 @@ var mappings = {
 	setoes': 'sectoes',
 	setor': 'sector',
 	setora': 'sectora',
+	setores': 'sectores',
 	setoras': 'sectoras',
 	setoriais': 'sectoriais',
 	setorial': 'sectorial',
